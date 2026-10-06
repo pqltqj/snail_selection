@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="1080" viewBox="0 0 1700 1080" role="img" aria-labelledby="title desc">
+<title id="title">Whale classification key in branching form</title>
+<desc id="desc">Start at Step 1. Baleen leads to Steps 2 and 3; teeth leads to Steps 4, 5 and 6. Every branch shows the statement and species endpoint.</desc>
+<rect width="1700" height="1080" fill="#f2f7f8" />
+<g fill="none" stroke="#416273" stroke-width="4" stroke-linejoin="round">
+<path d="M800 112V173H370V210 M800 173H1180V210" />
+<path d="M370 288V380H160V450 M370 380H570V450" />
+<path d="M160 528V668H130V725 M160 668H410V725" />
+<path d="M1180 288V380H1040V450 M1180 380H1500V450" />
+<path d="M1040 528V657H930V725 M1040 657H1300V725" />
+<path d="M930 803V969H815V1015 M930 969H1120V1015" />
+</g>
+<rect x="620.0" y="34" width="360" height="78" rx="12" fill="#e1edf0" stroke="#075c70" stroke-width="3" />
+<text x="800" y="63" text-anchor="middle" dominant-baseline="middle" fill="#102f40" font-family="system-ui,Segoe UI,sans-serif" font-size="28" font-weight="700">Step 1</text>
+<text x="800" y="95" text-anchor="middle" dominant-baseline="middle" fill="#102f40" font-family="system-ui,Segoe UI,sans-serif" font-size="28" font-weight="700">Mouth structures</text>
+<rect x="215.0" y="210" width="310" height="78" rx="12" fill="#e1edf0" stroke="#075c70" stroke-width="3" />
+<text x="370" y="239" text-anchor="middle" dominant-baseline="middle" fill="#102f40" font-family="system-ui,Segoe UI,sans-serif" font-size="28" font-weight="700">Step 2</text>
+<text x="370" y="271" text-anchor="middle" dominant-baseline="middle" fill="#102f40" font-family="system-ui,Segoe UI,sans-serif" font-size="28" font-weight="700">Dorsal fin</text>
+<rect x="1025.0" y="210" width="310" height="78" rx="12" fill="#e1edf0" stroke="#075c70" stroke-width="3" />
+<text x="1180" y="239" text-anchor="middle" dominant-baseline="middle" fill="#102f40" font-family="system-ui,Segoe UI,sans-serif" font-size="28" font-weight="700">Step 4</text>
+<text x="1180" y="271" text-anchor="middle" dominant-baseline="middle" fill="#102f40" font-family="system-ui,Segoe UI,sans-serif" font-size="28" font-weight="700">Dorsal fin</text>
+<rect x="15.0" y="450" width="290" height="78" rx="12" fill="#e1edf0" stroke="#075c70" stroke-width="3" />
+<text x="160" y="479" text-anchor="middle" dominant-baseline="middle" fill="#102f40" font-family="system-ui,Segoe UI,sans-serif" font-size="28" font-weight="700">Step 3</text>
+<text x="160" y="511" text-anchor="middle" dominant-baseline="middle" fill="#102f40" font-family="system-ui,Segoe UI,sans-serif" font-size="28" font-weight="700">Pectoral fins</text>
+<rect x="420.0" y="450" width="300" height="60" rx="12" fill="#082f42" stroke="#075c70" stroke-width="3" />
+<text x="570" y="488" text-anchor="middle" dominant-baseline="middle" fill="white" font-family="system-ui,Segoe UI,sans-serif" font-size="28" font-weight="700">Bowhead whale</text>
+<rect x="880.0" y="450" width="320" height="78" rx="12" fill="#e1edf0" stroke="#075c70" stroke-width="3" />
+<text x="1040" y="479" text-anchor="middle" dominant-baseline="middle" fill="#102f40" font-family="system-ui,Segoe UI,sans-serif" font-size="28" font-weight="700">Step 5</text>
+<text x="1040" y="511" text-anchor="middle" dominant-baseline="middle" fill="#102f40" font-family="system-ui,Segoe UI,sans-serif" font-size="28" font-weight="700">Nose region / tusk</text>
+<rect x="1355.0" y="450" width="290" height="60" rx="12" fill="#082f42" stroke="#075c70" stroke-width="3" />
+<text x="1500" y="488" text-anchor="middle" dominant-baseline="middle" fill="white" font-family="system-ui,Segoe UI,sans-serif" font-size="28" font-weight="700">Killer whale</text>
+<rect x="5.0" y="725" width="250" height="60" rx="12" fill="#082f42" stroke="#075c70" stroke-width="3" />
+<text x="130" y="763" text-anchor="middle" dominant-baseline="middle" fill="white" font-family="system-ui,Segoe UI,sans-serif" font-size="28" font-weight="700">Humpback whale</text>
+<rect x="300.0" y="725" width="220" height="60" rx="12" fill="#082f42" stroke="#075c70" stroke-width="3" />
+<text x="410" y="763" text-anchor="middle" dominant-baseline="middle" fill="white" font-family="system-ui,Segoe UI,sans-serif" font-size="28" font-weight="700">Blue whale</text>
+<rect x="780.0" y="725" width="300" height="78" rx="12" fill="#e1edf0" stroke="#075c70" stroke-width="3" />
+<text x="930" y="754" text-anchor="middle" dominant-baseline="middle" fill="#102f40" font-family="system-ui,Segoe UI,sans-serif" font-size="28" font-weight="700">Step 6</text>
+<text x="930" y="786" text-anchor="middle" dominant-baseline="middle" fill="#102f40" font-family="system-ui,Segoe UI,sans-serif" font-size="28" font-weight="700">Mouth position</text>
+<rect x="1180.0" y="725" width="240" height="60" rx="12" fill="#082f42" stroke="#075c70" stroke-width="3" />
+<text x="1300" y="763" text-anchor="middle" dominant-baseline="middle" fill="white" font-family="system-ui,Segoe UI,sans-serif" font-size="28" font-weight="700">Narwhal</text>
+<rect x="680.0" y="1015" width="270" height="60" rx="12" fill="#082f42" stroke="#075c70" stroke-width="3" />
+<text x="815" y="1053" text-anchor="middle" dominant-baseline="middle" fill="white" font-family="system-ui,Segoe UI,sans-serif" font-size="28" font-weight="700">Sperm whale</text>
+<rect x="1000.0" y="1015" width="240" height="60" rx="12" fill="#082f42" stroke="#075c70" stroke-width="3" />
+<text x="1120" y="1053" text-anchor="middle" dominant-baseline="middle" fill="white" font-family="system-ui,Segoe UI,sans-serif" font-size="28" font-weight="700">Beluga</text>
+<rect x="234.0" y="121.0" width="272" height="36" fill="#f2f7f8" /><text x="370" y="150" text-anchor="middle" fill="#102f40" font-family="system-ui,Segoe UI,sans-serif" font-size="27">1A. Baleen plates</text>
+<rect x="1080.0" y="121.0" width="200" height="36" fill="#f2f7f8" /><text x="1180" y="150" text-anchor="middle" fill="#102f40" font-family="system-ui,Segoe UI,sans-serif" font-size="27">1B. Teeth</text>
+<rect x="53.0" y="298.0" width="224" height="36" fill="#f2f7f8" /><text x="165" y="327" text-anchor="middle" fill="#102f40" font-family="system-ui,Segoe UI,sans-serif" font-size="27">2A. Dorsal fin</text>
+<rect x="65.0" y="330.0" width="200" height="36" fill="#f2f7f8" /><text x="165" y="359" text-anchor="middle" fill="#102f40" font-family="system-ui,Segoe UI,sans-serif" font-size="27">present</text>
+<rect x="434.0" y="314.0" width="272" height="36" fill="#f2f7f8" /><text x="570" y="343" text-anchor="middle" fill="#102f40" font-family="system-ui,Segoe UI,sans-serif" font-size="27">2B. No dorsal fin</text>
+<rect x="904.0" y="314.0" width="272" height="36" fill="#f2f7f8" /><text x="1040" y="343" text-anchor="middle" fill="#102f40" font-family="system-ui,Segoe UI,sans-serif" font-size="27">4A. No dorsal fin</text>
+<rect x="1400.0" y="298.0" width="200" height="36" fill="#f2f7f8" /><text x="1500" y="327" text-anchor="middle" fill="#102f40" font-family="system-ui,Segoe UI,sans-serif" font-size="27">4B. Large</text>
+<rect x="1400.0" y="330.0" width="200" height="36" fill="#f2f7f8" /><text x="1500" y="359" text-anchor="middle" fill="#102f40" font-family="system-ui,Segoe UI,sans-serif" font-size="27">dorsal fin</text>
+<rect x="30.0" y="556.0" width="200" height="36" fill="#f2f7f8" /><text x="130" y="585" text-anchor="middle" fill="#102f40" font-family="system-ui,Segoe UI,sans-serif" font-size="27">3A. Long</text>
+<rect x="26.0" y="588.0" width="208" height="36" fill="#f2f7f8" /><text x="130" y="617" text-anchor="middle" fill="#102f40" font-family="system-ui,Segoe UI,sans-serif" font-size="27">pectoral fins</text>
+<rect x="310.0" y="556.0" width="200" height="36" fill="#f2f7f8" /><text x="410" y="585" text-anchor="middle" fill="#102f40" font-family="system-ui,Segoe UI,sans-serif" font-size="27">3B. Short</text>
+<rect x="306.0" y="588.0" width="208" height="36" fill="#f2f7f8" /><text x="410" y="617" text-anchor="middle" fill="#102f40" font-family="system-ui,Segoe UI,sans-serif" font-size="27">pectoral fins</text>
+<rect x="686.0" y="543.0" width="368" height="36" fill="#f2f7f8" /><text x="870" y="572" text-anchor="middle" fill="#102f40" font-family="system-ui,Segoe UI,sans-serif" font-size="27">5A. Small nose, without</text>
+<rect x="694.0" y="575.0" width="352" height="36" fill="#f2f7f8" /><text x="870" y="604" text-anchor="middle" fill="#102f40" font-family="system-ui,Segoe UI,sans-serif" font-size="27">a long projecting tusk</text>
+<rect x="1123.0" y="536.0" width="384" height="36" fill="#f2f7f8" /><text x="1315" y="565" text-anchor="middle" fill="#102f40" font-family="system-ui,Segoe UI,sans-serif" font-size="27">5B. Long projection from</text>
+<rect x="1187.0" y="568.0" width="256" height="36" fill="#f2f7f8" /><text x="1315" y="597" text-anchor="middle" fill="#102f40" font-family="system-ui,Segoe UI,sans-serif" font-size="27">the nose region,</text>
+<rect x="1215.0" y="600.0" width="200" height="36" fill="#f2f7f8" /><text x="1315" y="629" text-anchor="middle" fill="#102f40" font-family="system-ui,Segoe UI,sans-serif" font-size="27">a tusk</text>
+<rect x="662.0" y="825.0" width="256" height="36" fill="#f2f7f8" /><text x="790" y="854" text-anchor="middle" fill="#102f40" font-family="system-ui,Segoe UI,sans-serif" font-size="27">6A. Mouth on the</text>
+<rect x="662.0" y="857.0" width="256" height="36" fill="#f2f7f8" /><text x="790" y="886" text-anchor="middle" fill="#102f40" font-family="system-ui,Segoe UI,sans-serif" font-size="27">ventral surface,</text>
+<rect x="638.0" y="889.0" width="304" height="36" fill="#f2f7f8" /><text x="790" y="918" text-anchor="middle" fill="#102f40" font-family="system-ui,Segoe UI,sans-serif" font-size="27">underneath the head</text>
+<rect x="1047.0" y="841.0" width="256" height="36" fill="#f2f7f8" /><text x="1175" y="870" text-anchor="middle" fill="#102f40" font-family="system-ui,Segoe UI,sans-serif" font-size="27">6B. Mouth at the</text>
+<rect x="1039.0" y="873.0" width="272" height="36" fill="#f2f7f8" /><text x="1175" y="902" text-anchor="middle" fill="#102f40" font-family="system-ui,Segoe UI,sans-serif" font-size="27">front of the head</text>
+</svg>
